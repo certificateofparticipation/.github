@@ -17,6 +17,7 @@ We appeared in:
 - Blahaj CTF - 2023
 - Project I.N.S.P.i.R.E - 2023
 - VJCxTP Data Science Hackathon - 2023
+- YCEP@NP - 2024
 
 More to come soon :)
 
