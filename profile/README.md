@@ -10,14 +10,18 @@ We compete in competitons about:
 - and more...
 
 We appeared in:
-- Reply Code Challenge - 2024
+- YCEP@NP - 2024
+- Reply Teen Edition - 2024
 - Hack@AC - 2024
 - VJCxTP Data Science Hackathon - 2024
 - Orion X: Decrypted - 2023
 - Blahaj CTF - 2023
 - Project I.N.S.P.i.R.E - 2023
 - VJCxTP Data Science Hackathon - 2023
-- YCEP@NP - 2024
+- NSC - 2023
+- Young Catalyst Microbit - 2022
+- MakeX Robotics - 2021
+
 
 More to come soon :)
 
