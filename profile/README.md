@@ -19,6 +19,7 @@ We appeared in:
 - Blahaj CTF - 2023
 - Project I.N.S.P.i.R.E - 2023
 - VJCxTP Data Science Hackathon - 2023
+
 More to come soon :)
 
 Repositories related to competitions will be kept private until it is no longer of use.
