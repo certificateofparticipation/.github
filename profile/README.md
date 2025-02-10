@@ -10,7 +10,7 @@ We compete in competitons about:
 - and more...
 
 We appeared in:
-- YBN - 2024
+- YBN CTF - 2024
 - Blahaj CTF - 2024
 - YCEP CCTF - 2024
 - YCEP@NP - 2024
