@@ -1,6 +1,6 @@
-## Certificate of Achievement (formerly Participation)
+## Certificate of Achievement (formerly Certificate of Participation)
 
-We are a group of Singaporean secondary school students striving to beat the odds.
+We are a group of Singaporean polytechnic and junior college students striving to beat the odds.
 
 We compete in competitons about:
 - Cybersecurity
@@ -10,6 +10,7 @@ We compete in competitons about:
 - and more...
 
 We appeared in:
+- SSMCTF - 2025
 - YBN CTF - 2024
 - Blahaj CTF - 2024
 - YCEP CCTF - 2024
